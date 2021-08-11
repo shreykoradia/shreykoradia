@@ -1,6 +1,8 @@
 ## Hi there 👋 I am SHREY . 
+
+#### A FullStack Developer from India  
+
 ---
-   #### A FullStack Developer from India  
 <br />
 
 - 💡 I am a CSE student at GTU from India, I am currently three semsesters away from  getting my degree and i am self taught developer !                          
