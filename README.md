@@ -34,5 +34,5 @@ https://shreykoradia.github.io/deliShrey/
 #### My current Project 
 http://covidtrackerbyshrey.herokuapp.com/
 
-#### Recent Tweet's from the handels  
+#### Recent Tweet's from the handle's  
 <img src="https://github-readme-twitter-gazf.vercel.app/api?id=shreykoradia" />
