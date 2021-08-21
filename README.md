@@ -11,7 +11,7 @@
 - 💬 Ask me about Javascript and many other cool innovative stuff that we could work out and learn together !
 - 📫 You can reach me on LinkedIn-shreykoradia or mail me at shrey.koradia@yahoo.com
 - ⚡ Fun fact :   I am also a songwriter in my day-dreams and much inspired by Albert Einstein 
-
+- 🤹 Skills : JavaScript , ReactJS , Nodejs , ExpressJS , SQL , JAVA , Python !  
 <br />
 
 #### My Github stats.
