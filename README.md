@@ -1,6 +1,6 @@
 ## Hi there 👋 I am SHREY . 
 
-#### A FullStack Developer from India  
+#### A FullStack Developer based out of India  
 
 ---
 <br />
