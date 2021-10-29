@@ -28,11 +28,11 @@
 <br />
 
 #### MyPortfolio
-https://shrey.works
+http://shrey.works
 
 
 #### My current Project 
-https://covidtrackerbyshrey.herokuapp.com/
+http://covidtrackerbyshrey.herokuapp.com/
 https://newsai-theta.vercel.app
 
 #### Recent Tweet's from the handle's  
