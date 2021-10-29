@@ -28,11 +28,12 @@
 <br />
 
 #### MyPortfolio
-https://shreykoradia.github.io/deliShrey/
+https://shrey.works
 
 
 #### My current Project 
-http://covidtrackerbyshrey.herokuapp.com/
+https://covidtrackerbyshrey.herokuapp.com/
+https://newsai-theta.vercel.app
 
 #### Recent Tweet's from the handle's  
 <img src="https://github-readme-twitter-gazf.vercel.app/api?id=shreykoradia" />
