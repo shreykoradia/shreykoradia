@@ -20,20 +20,6 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=shreykoradia">
 <br />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=shreykoradia&theme=dark&hide_border=true" >
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreykoradia">
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=shreykoradia">
-<br />
 
 #### MyPortfolio
 http://shrey.works
-
-
-#### My current Project 
-http://covidtrackerbyshrey.herokuapp.com/
-https://newsai-theta.vercel.app
-
-#### Recent Tweet's from the handle's  
-<img src="https://github-readme-twitter-gazf.vercel.app/api?id=shreykoradia" />
