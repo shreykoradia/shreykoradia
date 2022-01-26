@@ -9,9 +9,8 @@
 - 🔭 I’m currently working on My University Design Engineering Projects(Covid Tracker and CodeStack) and also working on AR application's.
 - 🌱 I’m currently learning Javascript in BackEnd Development , DS algo ,AR and AI with a tint of computer networks !
 - 💬 Ask me about Javascript and many other cool innovative stuff that we could work out and learn together !
-- 📫 You can reach me on LinkedIn-shreykoradia or mail me at shrey.koradia@yahoo.com
 - ⚡ Fun fact :   I am also a songwriter in my day-dreams and much inspired by Albert Einstein 
-- 🤹 Skills : JavaScript , ReactJS , Nodejs , ExpressJS , SQL , JAVA , Python , MongoDB(NodeJs)!  
+- 🤹 Skills : JavaScript , ReactJS , Nodejs , ExpressJS , SQL , JAVA , Python , MongoDB(NodeJs), Heroku  
 <br />
 
 #### My Github stats.
