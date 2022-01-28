@@ -15,7 +15,6 @@
 
 #### My Github stats.
 <br />
-<img src="https://komarev.com/ghpvc/?username=shreykoradia">
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=shreykoradia">
 <br />
