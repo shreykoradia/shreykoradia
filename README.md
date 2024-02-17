@@ -15,6 +15,7 @@
 
 #### My Github stats.
 <br />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreykoradia">
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=shreykoradia">
 <br />
