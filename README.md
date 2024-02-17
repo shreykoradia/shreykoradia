@@ -15,7 +15,7 @@
 
 #### My Github stats.
 <br />
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreykoradia)]
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreykoradia)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=shreykoradia">
 <br />
